@@ -1,0 +1,67 @@
+/* Cores 
+    - Amarelo : #edd32a
+*/
+
+/* Backgrounds */
+.bg-squash-text-dark{
+    background-color: #edd32a !important;
+    color: black !important;
+}
+
+.bg-squash-text-light{
+    background-color: #edd32a !important;
+    color: white !important;
+}
+ 
+.bg-squash-dark{
+    background-color: black !important;
+    color: #edd32a !important;
+}
+
+.bg-squash-light{
+    background-color: white !important;
+    color: #edd32a !important;
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    height: 100vh !important; 
+    margin-bottom: 0 !important;
+    text-align: center;
+}
+
+.jumbotron-body{
+    position: relative;
+    top: 25%;
+}
+
+/* Nav List Icon
+.nav-squash .nav .nav-item{
+    padding-left: 3%;
+}
+.squash-icon{
+    width: 70px;
+    height: 70px;
+} */
+
+/* Nav List Slider */
+
+.squash-card {
+    padding: 5%;
+}
+
+.squash-card .card .card-body-sqs {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 3px;
+    position: relative;
+    top: 70%;
+}
+
+
+/* Menu */
+.squash-menu{
+    background-color: #edd32a;
+    height: 50vh;
+}
